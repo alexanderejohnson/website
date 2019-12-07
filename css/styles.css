@@ -1,0 +1,176 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #EAF6F6;
+  width: 6%;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-weight: 500;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  line-height: 2;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #e3f6f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+  text-align: center;
+  width: 50%;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 80%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  text-align: center;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 125px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 40px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.coding-computer {
+  float: left;
+  margin-right: 30px;
+}
+
+.communication {
+  float: right;
+  margin-left: 30px;
+}
+
+.teamwork {
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+  text-align: center;
+  width: 50%;
+}
+
+.contact-message {
+  width: 70%;
+  margin: 40px auto 60px;
+}
+
+.myButton {
+  box-shadow: 0 1px 0 0 #f0f7fa;
+  background: linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+  background-color: #11cdd4;
+  border-radius: 6px;
+  border: 1px solid #11999e;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 #5b6178;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+  background-color: #11999e;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.flaticon {
+  margin: auto;
+  padding-top: 10px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.Freepik {
+  margin: 5px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
